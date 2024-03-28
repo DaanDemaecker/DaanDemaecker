@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Daan Demaecker</h1>
-<h3 align="left">An aspiring game developer with a big interest in physics.</h3>
+<h3 align="left">An aspiring game developer with a big interest in physics, currently studying at DAE, Howest, Belgium.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
