@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Daan Demaecker</h1>
 <h3 align="left"> I am an aspiring game developer with a big interest in physics and graphics, currently studying Game Development at DAE, Howest, Belgium.</h3>  
-Learn more about me [here](https://daandemaecker.github.io)
+Learn more about me 
+<a href="https://daandemaecker.github.io">here</a>.
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
