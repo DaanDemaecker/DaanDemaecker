@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Daan Demaecker</h1>
 <h3 align="left"> I am an aspiring game developer with a big interest in physics and graphics, currently studying Game Development at DAE, Howest, Belgium.</h3>. 
 
-Learn more about me [https://daandemaecker.github.io/](here).
+Learn more about me [here](hhttps://daandemaecker.github.io/).
 
 
 <h3 align="left">Languages and Tools:</h3>
